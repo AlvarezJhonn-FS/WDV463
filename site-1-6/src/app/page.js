@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center min-h-screen text-center">
       <h1 className="text-4xl font-bold mb-4">
-        Hello!
+        Hello! I'm Jhonn Alvarez
       </h1>
       <p className="text-lg text-gray-600">
         This is my static Next.js website for Exercise 1.6.
